@@ -1,1 +1,4 @@
-print("hellow")
+n = "hellow"
+p = "sayem"
+
+print( n + " " + p)
